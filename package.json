@@ -1,0 +1,23 @@
+{
+  "name": "first_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juank628/first_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juank628/first_test/issues"
+  },
+  "homepage": "https://github.com/Juank628/first_test#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
